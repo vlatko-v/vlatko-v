@@ -12,6 +12,8 @@ Feel free to discover the projects I've been working on. Here are a few highligh
 
  🫧 [Urban Air Pollution Forecasting](https://github.com/vlatko-v/ds-airpollution-project) (**Repo under construction** 🏗️)<br/><br/>
 
+**My Skillset**: Python, SQL, Pandas, Seaborn, Matplotlib, scikit-learn, sktime, Tensorflow/Keras, Git<br/><br/>
+
 I'm always eager learn more and work on new machine learning projects, particularly those focused on sustainability.<br/>
 🌱 Let's collaborate! <br/><br/>
 
