@@ -4,13 +4,14 @@ I am Vlatko Vilović, a social and environmental scientist passionate about expl
 
 Feel free to discover the projects I've been working on. Here are a few highlights:
 
-:house: [Exploratory Data Analysis: King County Housing](https://github.com/vlatko-v/ds-king_county_housing-EDA)
+:doughnut: [sweetspot - A Time-Series Forecasting Model for Reducing Food Waste](https://github.com/vlatko-v/sweet-spot-donut-sales-forecasting)
 
 :paw_prints: [Conser-Vision: Classifying Images of Wildlife Species](https://github.com/vlatko-v/drivendata-Conser-vision-Image-Classification)
 
-:doughnut: [sweetspot - A Time-Series Forecasting Model for Reducing Food Waste](https://github.com/vlatko-v/sweet-spot-donut-sales-forecasting)
+🫧 [Urban Air Pollution Forecasting](https://github.com/vlatko-v/ds-airpollution-project) (**Repo under construction** 🏗️)
 
- 🫧 [Urban Air Pollution Forecasting](https://github.com/vlatko-v/ds-airpollution-project) (**Repo under construction** 🏗️)<br/><br/>
+:house: [Exploratory Data Analysis: King County Housing](https://github.com/vlatko-v/ds-king_county_housing-EDA)<br/><br/>
+
 
 **My Skill Set**: Python, SQL, Pandas, Seaborn, Matplotlib, scikit-learn, sktime, Tensorflow/Keras, Git<br/><br/>
 
